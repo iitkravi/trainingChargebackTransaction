@@ -1,4 +1,4 @@
-merchant_name,merchant_id,merchant_email,merchant_phone,customer_name,customer_card_number,customer_billing_address,city,zip code,order_date,order_amount,order_currency,order_description,payment_authorization_code,payment_settlement_date,latitude,longitude,ip_address,target
+merchant_name,merchant_id,merchant_email,merchant_phone,customer_name,customer_card_number,customer_billing_address,city,zip_code,order_date,order_amount,order_currency,order_description,payment_authorization_code,payment_settlement_date,latitude,longitude,ip_address,target
 TUV Art,321987654,tuv@art.com,+1-800-321-9876,Anna Davis,5555555555554444,789 Main Street, Atlanta, GA 30303,2021-10-07,65.0,USD,Online purchase of laptop,R78901,2021-10-19,33.749,-84.388,30.12.34.56,0
 TUV Art,198765432,tuv@art.com,+1-800-321-9876,Anna Davis,5555555555554444,101 Main Street, Atlanta, GA 30303,2021-10-07,75.0,USD,Online order of food,R78901,2021-11-18,33.749,-84.388,30.12.34.56,0
 YZA Toys,198765432,yza@toys.com,+1-800-987-6543,Michael Johnson,5105105105105100,1098 Main Street, Dallas, TX 75201,2021-12-04,75.0,USD,Online order of toys,K01234,2021-10-16,32.7767,-96.797,12.34.56.78,0
